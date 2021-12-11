@@ -425,6 +425,7 @@ header .container {
 .footer-list {
     display: flex;
     justify-content: flex-start;
+    align-items: baseline;
 }
 
 .footer-list>li:last-child {
